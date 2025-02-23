@@ -1,2 +1,4 @@
 # gitdemo
-by Rishi Raj
+This is my first Git Repository.
+<br>
+by Rishi Raj(IIT Patna)
